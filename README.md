@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="left">Olá, me chamo Matheus!🧑‍💻</h1>
 
-<!--
-**mathcostadev/mathcostadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Desenvolvedor em formação, comprometido em criar soluções web e mobile com foco em usabilidade, performance e boas práticas.<br>Atualmente, venho aprofundando meus conhecimentos em desenvolvimento full stack, aplicando tudo em projetos práticos enquanto avanço na minha jornada acadêmica em Sistemas de Informação.<br><br>Possuo inglês avançado, com vivência nos Estados Unidos, o que facilita o acesso a documentação técnica, aprendizado de novas tecnologias e comunicação em ambientes internacionais.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">🎯 Buscando evoluir como desenvolvedor full stack por meio de projetos reais e aprendizado constante<br><br>👨‍💻 Curioso por tudo que envolve desenvolvimento web, mobile e boas práticas de código<br><br>🧩 Gosto de entender como as coisas funcionam por trás das interfaces e aprender além do básico<br><br>📚 Valorizo organização, design limpo e experiências de usuário intuitivas<br><br>🌎 Já morei nos EUA, o que me proporcionou um inglês avançado e visão global sobre tecnologia</p>
+
+###
+
+<h2 align="left">Tecnologias e linguagens 💻</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/mathcostadev/mathcostadev/output/snake.svg" alt="Snake animation" />
+
+###
