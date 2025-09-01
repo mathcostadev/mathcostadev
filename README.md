@@ -6,11 +6,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">🎯 Buscando evoluir como desenvolvedor full stack por meio de projetos reais e aprendizado constante<br><br>👨‍💻 Curioso por tudo que envolve desenvolvimento web, mobile e boas práticas de código<br><br>🧩 Gosto de entender como as coisas funcionam por trás das interfaces e aprender além do básico<br><br>📚 Valorizo organização, design limpo e experiências de usuário intuitivas<br><br>🌎 Já morei nos EUA, o que me proporcionou um inglês avançado e visão global sobre tecnologia</p>
+<p align="left">🎯 Buscando evoluir como desenvolvedor full stack por meio de projetos reais e aprendizado constante<br><br>👨‍💻 Curioso por tudo que envolve desenvolvimento web, mobile e boas práticas de código<br><br>🧩 Gosto de entender como as coisas funcionam por trás das interfaces e aprender além do básico<br><br>📚 Valorizo organização, design limpo e experiências de usuário intuitivas<br><br>🌎 Intercambio nos EUA, o que me proporcionou um inglês avançado e visão global sobre tecnologia</p>
 
 ###
 
@@ -26,6 +26,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
 
 ###
